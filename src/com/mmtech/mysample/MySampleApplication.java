@@ -6,8 +6,6 @@ import java.awt.Toolkit;
 public class MySampleApplication {
 
     SampleFrame sampleframe;
-    /*final private EntityManagerFactory factory;
-    final private EntityManager em;*/
     
     public MySampleApplication() {
         
